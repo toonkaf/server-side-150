@@ -1,0 +1,25 @@
+{
+  "name": "server-side-day2-150",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo-help-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toonkaf/server-side-150.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/toonkaf/server-side-150/issues"
+  },
+  "homepage": "https://github.com/toonkaf/server-side-150#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^26.5.0"
+  }
+}
